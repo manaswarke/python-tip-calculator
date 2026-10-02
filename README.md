@@ -18,6 +18,7 @@ A straightforward Python utility designed to quickly calculate gratuity and spli
 1. Download or clone this repository.
 2. If using the zip archive, extract `p1_tip_calci_app.zip`.
 3. Open your terminal or command prompt inside the project folder.
-4. Run the application driver script (e.g., `main.py` or the primary execution file inside the folder):
+4. Execute the primary application file by running:
    ```bash
-   python main.py
+   cd p1_tip_calci_app
+   python p1_tip_calci_app.py
